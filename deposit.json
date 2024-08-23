@@ -1,0 +1,12 @@
+{
+  "url": "",
+  "amount": {
+    "sum": 11.0,
+    "currency": "EUR"
+  },
+  "customer": {
+    "nr": 123,
+    "firstName": "Uku",
+    "lastName": "Muku"
+  }
+}
